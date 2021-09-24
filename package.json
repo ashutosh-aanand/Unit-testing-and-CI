@@ -1,0 +1,20 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "testing and CI",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "circleCI",
+    "CI"
+  ],
+  "author": "ashutosh anand",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.1"
+  }
+}
