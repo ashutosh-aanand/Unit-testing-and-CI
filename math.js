@@ -12,4 +12,8 @@ math.Multiply = (a,b)=>{
     return a*b;
 }
 
+math.Divide = (a,b)=>{
+    return a/b;
+}
+
 module.exports = math;
