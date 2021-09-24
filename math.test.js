@@ -13,3 +13,8 @@ test('multiplication tests', ()=>{
     expect(math.Multiply(8,7)).toBe(56);
     expect(math.Multiply(0,73879423)).toBe(0);
 });
+
+test('division tests', ()=>{
+    expect(math.Divide(18,2)).toBe(9);
+    expect(math.Divide(0,9423)).toBe(0);
+});
