@@ -9,7 +9,7 @@ math.Subtract = (a,b)=>{
 }
 
 math.Multiply = (a,b)=>{
-    return a*b;
+    return a*b*2;
 }
 
 module.exports = math;
