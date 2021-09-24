@@ -8,4 +8,8 @@ math.Subtract = (a,b)=>{
     return a-b;
 }
 
+math.Multiply = (a,b)=>{
+    return a*b;
+}
+
 module.exports = math;
